@@ -1,0 +1,157 @@
+/* 
+  Localizable.strings
+  Tamiza - English
+  
+  Created by AI Assistant on 2025-07-28.
+*/
+
+// App General
+"app.name" = "Tamiza";
+"general.cancel" = "Cancel";
+"general.save" = "Save";
+"general.delete" = "Delete";
+"general.edit" = "Edit";
+"general.done" = "Done";
+"general.ok" = "OK";
+"general.yes" = "Yes";
+"general.no" = "No";
+"general.loading" = "Loading...";
+"general.error" = "Error";
+"general.success" = "Success";
+
+// Navigation
+"navigation.meals" = "Meals";
+"navigation.analytics" = "Analytics";
+"navigation.profile" = "Profile";
+"navigation.settings" = "Settings";
+
+// Meals
+"meals.add_meal" = "Add Meal";
+"meals.meal_name" = "Meal Name";
+"meals.enter_meal_name" = "Enter meal name";
+"meals.meal_information" = "Meal Information";
+"meals.nutrition_facts" = "Nutrition Facts";
+"nutrition.calories" = "Calories";
+"nutrition.protein" = "Protein";
+"nutrition.fat" = "Fat";
+"nutrition.carbohydrates" = "Carbohydrates";
+"nutrition.fiber" = "Fiber";
+"nutrition.sugar" = "Sugar";
+"nutrition.sodium" = "Sodium";
+"meals.todays_meals" = "Today's Meals";
+"meals.no_meals_logged" = "No meals logged today";
+"meals.daily_total" = "Daily Total";
+"meals.quick_add" = "Quick Add";
+
+// AI Recognition
+"ai.recognition" = "AI Recognition";
+"ai.scan_food" = "Scan Food with AI";
+"ai.recognition_description" = "Use your camera to identify food automatically";
+"ai.recognition_results" = "Food Recognition Results";
+"ai.no_food_recognized" = "No food items recognized";
+"ai.try_better_lighting" = "Try taking another photo with better lighting";
+"ai.confidence" = "Confidence";
+
+// Analytics
+"analytics.daily_nutrition" = "Daily Nutrition";
+"analytics.weekly_trends" = "Weekly Trends";
+"analytics.monthly_overview" = "Monthly Overview";
+"analytics.goal_progress" = "Goal Progress";
+"analytics.macro_balance" = "Macro Balance";
+"analytics.balanced" = "Balanced";
+"analytics.unbalanced" = "Unbalanced";
+"analytics.food_insights" = "Food Insights";
+"analytics.total_calories" = "Total Calories";
+"analytics.average_calories" = "Average Calories";
+"analytics.most_active_week" = "Most Active Week";
+
+// Health Integration
+"health.apple_health" = "Apple Health";
+"health.integration" = "Health Integration";
+"health.kit_status" = "HealthKit Status";
+"health.auto_sync" = "Auto Sync";
+"health.sync_frequency" = "Sync Frequency";
+"health.sync_now" = "Sync Now";
+"health.open_health_app" = "Open Health App";
+"health.data_privacy" = "Data Privacy";
+"health.privacy_description" = "Tamiza only writes nutrition data to HealthKit and does not read personal health information without your explicit permission. All data is stored securely on your device.";
+
+// iCloud Sync
+"icloud.sync" = "iCloud Sync";
+"icloud.status" = "iCloud Status";
+"icloud.last_sync" = "Last Sync";
+"icloud.automatic_sync" = "Automatic Sync";
+"icloud.sync_conflicts" = "Sync Conflicts";
+"icloud.resolve_conflicts" = "Resolve Conflicts";
+"icloud.clear_cloud_data" = "Clear Cloud Data";
+"icloud.storage_used" = "Cloud Storage Used";
+
+// Settings
+"settings.nutrition_goals" = "Nutrition Goals";
+"settings.daily_calories_goal" = "Daily Calories Goal";
+"settings.protein_goal" = "Protein Goal";
+"settings.fat_goal" = "Fat Goal";
+"settings.carbs_goal" = "Carbs Goal";
+"settings.edit_goals" = "Edit Goals";
+"settings.reset_to_defaults" = "Reset to Defaults";
+"settings.language" = "Language";
+"settings.app_information" = "App Information";
+"settings.version" = "Version";
+"settings.build" = "Build";
+
+// Units
+"units.kcal" = "kcal";
+"units.grams" = "g";
+"units.milligrams" = "mg";
+"units.liters" = "L";
+"units.milliliters" = "ml";
+"units.percentage" = "%";
+
+// Time
+"time.today" = "Today";
+"time.yesterday" = "Yesterday";
+"time.this_week" = "This Week";
+"time.this_month" = "This Month";
+"time.breakfast" = "Breakfast";
+"time.lunch" = "Lunch";
+"time.dinner" = "Dinner";
+"time.snack" = "Snack";
+
+// Validation
+"validation.field_required" = "This field is required";
+"validation.invalid_value" = "Invalid value";
+"validation.value_too_low" = "Value is too low";
+"validation.value_too_high" = "Value is too high";
+"validation.name_cannot_be_empty" = "Name cannot be empty";
+"validation.calories_must_be_positive" = "Calories must be positive";
+
+// Errors
+"error.network" = "Network connection error";
+"error.sync" = "Synchronization error";
+"error.healthkit" = "HealthKit error";
+"error.camera" = "Camera error";
+"error.permission_denied" = "Permission denied";
+"error.unknown" = "Unknown error occurred";
+// MARK: - Performance Optimization
+"performance_optimization" = "Performance Optimization";
+"performance_metrics" = "Performance Metrics";
+"memory_usage" = "Memory Usage";
+"optimizing_performance" = "Optimizing performance...";
+"last_optimization" = "Last optimization";
+"optimization_actions" = "Optimization Actions";
+"clear_cache" = "Clear Cache";
+"clear_cache_description" = "Free up memory by clearing cached data";
+"optimize_database" = "Optimize Database";
+"optimize_database_description" = "Improve database performance and cleanup old data";
+"cleanup_temp_files" = "Cleanup Temp Files";
+"cleanup_temp_files_description" = "Remove temporary files to free up storage";
+"advanced_options" = "Advanced Options";
+"show_advanced_options" = "Show Advanced Options";
+"auto_optimization" = "Auto Optimization";
+"background_optimization" = "Background Optimization";
+"optimization_frequency" = "Optimization Frequency";
+"daily" = "Daily";
+"performance_history" = "Performance History";
+"memory_usage_over_time" = "Memory Usage Over Time";
+"performance_chart_placeholder" = "Performance chart will appear here";
+"optimize_now" = "Optimize Now";

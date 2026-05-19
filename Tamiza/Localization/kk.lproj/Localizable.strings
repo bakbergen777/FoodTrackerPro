@@ -1,0 +1,110 @@
+/* 
+  Localizable.strings (Kazakh)
+  Tamiza
+  
+  Created by AI Assistant on 2025-07-28.
+*/
+
+// MARK: - General
+"app_name" = "Тамиза";
+"ok" = "Жарайды";
+"cancel" = "Болдырмау";
+"save" = "Сақтау";
+"delete" = "Жою";
+"edit" = "Өңдеу";
+"done" = "Дайын";
+"loading" = "Жүктелуде...";
+"error" = "Қате";
+"success" = "Сәтті";
+"retry" = "Қайталау";
+"close" = "Жабу";
+
+// MARK: - Navigation & Tabs
+"meals" = "Тамақ ішу";
+"analytics" = "Аналитика";
+"profile" = "Профиль";
+"settings" = "Баптаулар";
+
+// MARK: - Meals & Food
+"add_meal" = "Тамақ қосу";
+"breakfast" = "Таңғы ас";
+"lunch" = "Түскі ас";
+"dinner" = "Кешкі ас";
+"snack" = "Жеңіл тамақ";
+"food_name" = "Тамақ атауы";
+"quantity" = "Мөлшері";
+"calories" = "Калория";
+"protein" = "Ақуыз";
+"fat" = "Май";
+"carbohydrates" = "Көмірсу";
+"fiber" = "Талшық";
+"sugar" = "Қант";
+"sodium" = "Натрий";
+
+// MARK: - Units
+"grams" = "г";
+"kcal" = "ккал";
+"mg" = "мг";
+"serving" = "порция";
+"cup" = "кесе";
+"tablespoon" = "ас қасық";
+"teaspoon" = "шай қасық";
+
+// MARK: - Analytics
+"daily_summary" = "Күнделікті қорытынды";
+"weekly_trends" = "Апталық үрдістер";
+"monthly_overview" = "Айлық шолу";
+"nutrition_breakdown" = "Тамақтану бөлінісі";
+"calorie_intake" = "Калория тұтыну";
+"macro_distribution" = "Макронутриенттердің бөлінісі";
+"progress_tracking" = "Прогресті бақылау";
+
+// MARK: - Goals & Settings
+"nutrition_goals" = "Тамақтану мақсаттары";
+"daily_calories_goal" = "Күнделікті калория нормасы";
+"protein_goal" = "Ақуыз мақсаты";
+"fat_goal" = "Май мақсаты";
+"carbs_goal" = "Көмірсу мақсаты";
+"edit_goals" = "Мақсаттарды өңдеу";
+"daily_nutrition_goals" = "Күнделікті тамақтану мақсаттары";
+"reset_to_defaults" = "Бастапқы мәндерге қайтару";
+
+// MARK: - Preferences
+"preferences" = "Теңшелімдер";
+"language" = "Тіл";
+"select_language" = "Тілді таңдау";
+"notifications" = "Хабарландырулар";
+"theme" = "Тақырып";
+"units" = "Өлшем бірліктері";
+
+// MARK: - Health & Sync
+"health_fitness" = "Денсаулық және фитнес";
+"apple_health" = "Apple Health";
+"sync_nutrition_data" = "Денсаулық қолданбасымен тамақтану деректерін синхрондау";
+"data_sync" = "Деректер және синхрондау";
+"icloud_sync" = "iCloud синхрондауы";
+"keep_data_synced" = "Құрылғылар арасында деректерді синхрондау";
+
+// MARK: - App Information
+"app_information" = "Қолданба туралы ақпарат";
+"version" = "Нұсқа";
+"build" = "Құрастыру";
+"support" = "Қолдау";
+"privacy_policy" = "Құпиялылық саясаты";
+"terms_of_service" = "Пайдалану шарттары";
+"contact_support" = "Қолдау қызметіне хабарласу";
+
+// MARK: - AI & Camera
+"ai_food_recognition" = "AI тамақ тану";
+"take_photo" = "Фото түсіру";
+"analyze_food" = "Тамақты талдау";
+"recognition_results" = "Тану нәтижелері";
+"confidence" = "Сенімділік";
+
+// MARK: - Errors & Validation
+"invalid_input" = "Қате енгізу";
+"required_field" = "Міндетті өріс";
+"network_error" = "Желі қатесі";
+"sync_failed" = "Синхрондау сәтсіз";
+"camera_permission_denied" = "Камераға қол жеткізу тыйым салынған";
+"health_permission_denied" = "Денсаулық деректеріне қол жеткізу тыйым салынған";

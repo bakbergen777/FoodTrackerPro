@@ -1,0 +1,113 @@
+/* 
+  Localizable.strings (Kazakh)
+  FoodTrackerPro
+
+  Created by AI Assistant on 2025-07-28.
+*/
+
+// MARK: - App Navigation
+"tab.calendar" = "Күнтізбе";
+"tab.today" = "Бүгін";
+"tab.analytics" = "Аналитика";
+"tab.profile" = "Профиль";
+"tab.body_tracking" = "Дене өлшемдері";
+
+// MARK: - Food Recognition
+"ai.recognizing" = "Тағамды тану...";
+"ai.confidence" = "%d%% сенімділік";
+"ai.select_food" = "Таңдау";
+"ai.add_custom" = "Өзіңізді қосу";
+"ai.camera_permission" = "Тағамды тану үшін камераға қол жеткізу қажет";
+"ai.take_photo" = "Фото түсіру";
+"ai.choose_from_gallery" = "Галереядан таңдау";
+
+// MARK: - Body Measurements
+"body.shoulder_circumference" = "Иық айналымы";
+"body.neck_circumference" = "Мойын айналымы";
+"body.chest_circumference" = "Кеуде айналымы";
+"body.arm_circumference" = "Қол айналымы";
+"body.thigh_circumference" = "Жамбас айналымы";
+"body.hip_circumference" = "Жамбас айналымы";
+"body.calf_circumference" = "Балтыр айналымы";
+"body.foot_size" = "Аяқ өлшемі";
+"body.weight" = "Салмақ";
+"body.height" = "Бой";
+
+// MARK: - Health & Nutrition
+"health.calories" = "Калория";
+"health.protein" = "Ақуыз";
+"health.fat" = "Май";
+"health.carbs" = "Көмірсу";
+"health.fiber" = "Талшық";
+"health.sugar" = "Қант";
+"health.sodium" = "Натрий";
+"health.bmr" = "НЗС";
+"health.tdee" = "ЖЭШЖ";
+"health.bmi" = "ДМИ";
+"health.body_fat" = "Дене майы";
+
+// MARK: - Profile Setup
+"profile.setup_title" = "FoodTrackerPro-ға қош келдіңіз";
+"profile.setup_subtitle" = "Жеке тамақтану бақылауы үшін профиліңізді орнатайық";
+"profile.name" = "Аты";
+"profile.age" = "Жасы";
+"profile.gender" = "Жынысы";
+"profile.gender.male" = "Ер";
+"profile.gender.female" = "Әйел";
+"profile.activity_level" = "Белсенділік деңгейі";
+"profile.activity.sedentary" = "Отырықшы";
+"profile.activity.light" = "Жеңіл";
+"profile.activity.moderate" = "Орташа";
+"profile.activity.active" = "Белсенді";
+"profile.activity.very_active" = "Өте белсенді";
+
+// MARK: - Meals
+"meal.breakfast" = "Таңғы ас";
+"meal.lunch" = "Түскі ас";
+"meal.dinner" = "Кешкі ас";
+"meal.snack" = "Жеңіл тағам";
+"meal.add_food" = "Тағам қосу";
+"meal.total_calories" = "Жалпы калория";
+
+// MARK: - Food Search
+"food.search_placeholder" = "Тағамдарды іздеу...";
+"food.recent_foods" = "Соңғы тағамдар";
+"food.favorite_foods" = "Сүйікті тағамдар";
+"food.search_results" = "Іздеу нәтижелері";
+"food.add_custom_food" = "Өз тағамыңызды қосу";
+"food.serving_size" = "Порция өлшемі";
+"food.per_100g" = "100г-ға";
+
+// MARK: - Actions
+"action.save" = "Сақтау";
+"action.cancel" = "Болдырмау";
+"action.edit" = "Өңдеу";
+"action.delete" = "Жою";
+"action.add" = "Қосу";
+"action.search" = "Іздеу";
+"action.continue" = "Жалғастыру";
+"action.done" = "Дайын";
+"action.next" = "Келесі";
+"action.back" = "Артқа";
+
+// MARK: - Analytics
+"analytics.weekly_overview" = "Апталық шолу";
+"analytics.calorie_balance" = "Калория балансы";
+"analytics.macro_distribution" = "Макронутриенттердің таралуы";
+"analytics.consumed" = "Тұтынылған";
+"analytics.burned" = "Жанған";
+"analytics.net_balance" = "Таза баланс";
+"analytics.surplus" = "Артықшылық";
+"analytics.deficit" = "Тапшылық";
+
+// MARK: - Settings
+"settings.language" = "Тіл";
+"settings.notifications" = "Хабарландырулар";
+"settings.privacy" = "Құпиялылық";
+"settings.about" = "Қолданба туралы";
+
+// MARK: - Errors
+"error.generic" = "Бірдеңе дұрыс болмады. Қайталап көріңіз.";
+"error.network" = "Желі қосылымы қатесі. Интернет байланысын тексеріңіз.";
+"error.camera_permission" = "Тағамды суретке түсіру үшін камера рұқсаты қажет.";
+"error.health_permission" = "Дәл калория бақылауы үшін денсаулық деректеріне қол жеткізу қажет.";

@@ -1,0 +1,113 @@
+/* 
+  Localizable.strings (Russian)
+  FoodTrackerPro
+
+  Created by AI Assistant on 2025-07-28.
+*/
+
+// MARK: - App Navigation
+"tab.calendar" = "Календарь";
+"tab.today" = "Сегодня";
+"tab.analytics" = "Аналитика";
+"tab.profile" = "Профиль";
+"tab.body_tracking" = "Замеры тела";
+
+// MARK: - Food Recognition
+"ai.recognizing" = "Распознавание еды...";
+"ai.confidence" = "%d%% уверенности";
+"ai.select_food" = "Выбрать";
+"ai.add_custom" = "Добавить свое";
+"ai.camera_permission" = "Требуется доступ к камере для распознавания еды";
+"ai.take_photo" = "Сделать фото";
+"ai.choose_from_gallery" = "Выбрать из галереи";
+
+// MARK: - Body Measurements
+"body.shoulder_circumference" = "Обхват плеч";
+"body.neck_circumference" = "Обхват шеи";
+"body.chest_circumference" = "Обхват груди";
+"body.arm_circumference" = "Обхват рук";
+"body.thigh_circumference" = "Обхват бедра";
+"body.hip_circumference" = "Обхват бедер";
+"body.calf_circumference" = "Обхват голени";
+"body.foot_size" = "Размер стопы";
+"body.weight" = "Вес";
+"body.height" = "Рост";
+
+// MARK: - Health & Nutrition
+"health.calories" = "Калории";
+"health.protein" = "Белки";
+"health.fat" = "Жиры";
+"health.carbs" = "Углеводы";
+"health.fiber" = "Клетчатка";
+"health.sugar" = "Сахар";
+"health.sodium" = "Натрий";
+"health.bmr" = "ОМ";
+"health.tdee" = "СРОЭ";
+"health.bmi" = "ИМТ";
+"health.body_fat" = "Жир в теле";
+
+// MARK: - Profile Setup
+"profile.setup_title" = "Добро пожаловать в FoodTrackerPro";
+"profile.setup_subtitle" = "Давайте настроим ваш профиль для персонализированного отслеживания питания";
+"profile.name" = "Имя";
+"profile.age" = "Возраст";
+"profile.gender" = "Пол";
+"profile.gender.male" = "Мужской";
+"profile.gender.female" = "Женский";
+"profile.activity_level" = "Уровень активности";
+"profile.activity.sedentary" = "Малоподвижный";
+"profile.activity.light" = "Легкий";
+"profile.activity.moderate" = "Умеренный";
+"profile.activity.active" = "Активный";
+"profile.activity.very_active" = "Очень активный";
+
+// MARK: - Meals
+"meal.breakfast" = "Завтрак";
+"meal.lunch" = "Обед";
+"meal.dinner" = "Ужин";
+"meal.snack" = "Перекус";
+"meal.add_food" = "Добавить еду";
+"meal.total_calories" = "Всего калорий";
+
+// MARK: - Food Search
+"food.search_placeholder" = "Поиск продуктов...";
+"food.recent_foods" = "Недавние продукты";
+"food.favorite_foods" = "Избранные продукты";
+"food.search_results" = "Результаты поиска";
+"food.add_custom_food" = "Добавить свой продукт";
+"food.serving_size" = "Размер порции";
+"food.per_100g" = "на 100г";
+
+// MARK: - Actions
+"action.save" = "Сохранить";
+"action.cancel" = "Отмена";
+"action.edit" = "Изменить";
+"action.delete" = "Удалить";
+"action.add" = "Добавить";
+"action.search" = "Поиск";
+"action.continue" = "Продолжить";
+"action.done" = "Готово";
+"action.next" = "Далее";
+"action.back" = "Назад";
+
+// MARK: - Analytics
+"analytics.weekly_overview" = "Недельный обзор";
+"analytics.calorie_balance" = "Баланс калорий";
+"analytics.macro_distribution" = "Распределение макронутриентов";
+"analytics.consumed" = "Потреблено";
+"analytics.burned" = "Сожжено";
+"analytics.net_balance" = "Чистый баланс";
+"analytics.surplus" = "Избыток";
+"analytics.deficit" = "Дефицит";
+
+// MARK: - Settings
+"settings.language" = "Язык";
+"settings.notifications" = "Уведомления";
+"settings.privacy" = "Конфиденциальность";
+"settings.about" = "О приложении";
+
+// MARK: - Errors
+"error.generic" = "Что-то пошло не так. Пожалуйста, попробуйте еще раз.";
+"error.network" = "Ошибка сетевого соединения. Проверьте подключение к интернету.";
+"error.camera_permission" = "Для фотографирования еды требуется разрешение на использование камеры.";
+"error.health_permission" = "Для точного отслеживания калорий требуется доступ к данным о здоровье.";

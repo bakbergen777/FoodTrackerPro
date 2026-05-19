@@ -1,0 +1,110 @@
+/* 
+  Localizable.strings (Spanish)
+  Tamiza
+  
+  Created by AI Assistant on 2025-07-28.
+*/
+
+// MARK: - General
+"app_name" = "Tamiza";
+"ok" = "OK";
+"cancel" = "Cancelar";
+"save" = "Guardar";
+"delete" = "Eliminar";
+"edit" = "Editar";
+"done" = "Hecho";
+"loading" = "Cargando...";
+"error" = "Error";
+"success" = "Éxito";
+"retry" = "Reintentar";
+"close" = "Cerrar";
+
+// MARK: - Navigation & Tabs
+"meals" = "Comidas";
+"analytics" = "Análisis";
+"profile" = "Perfil";
+"settings" = "Configuración";
+
+// MARK: - Meals & Food
+"add_meal" = "Agregar comida";
+"breakfast" = "Desayuno";
+"lunch" = "Almuerzo";
+"dinner" = "Cena";
+"snack" = "Merienda";
+"food_name" = "Nombre del alimento";
+"quantity" = "Cantidad";
+"calories" = "Calorías";
+"protein" = "Proteína";
+"fat" = "Grasa";
+"carbohydrates" = "Carbohidratos";
+"fiber" = "Fibra";
+"sugar" = "Azúcar";
+"sodium" = "Sodio";
+
+// MARK: - Units
+"grams" = "g";
+"kcal" = "kcal";
+"mg" = "mg";
+"serving" = "porción";
+"cup" = "taza";
+"tablespoon" = "cucharada";
+"teaspoon" = "cucharadita";
+
+// MARK: - Analytics
+"daily_summary" = "Resumen diario";
+"weekly_trends" = "Tendencias semanales";
+"monthly_overview" = "Resumen mensual";
+"nutrition_breakdown" = "Desglose nutricional";
+"calorie_intake" = "Ingesta de calorías";
+"macro_distribution" = "Distribución de macronutrientes";
+"progress_tracking" = "Seguimiento del progreso";
+
+// MARK: - Goals & Settings
+"nutrition_goals" = "Objetivos nutricionales";
+"daily_calories_goal" = "Objetivo de calorías diarias";
+"protein_goal" = "Objetivo de proteína";
+"fat_goal" = "Objetivo de grasa";
+"carbs_goal" = "Objetivo de carbohidratos";
+"edit_goals" = "Editar objetivos";
+"daily_nutrition_goals" = "Objetivos nutricionales diarios";
+"reset_to_defaults" = "Restablecer valores predeterminados";
+
+// MARK: - Preferences
+"preferences" = "Preferencias";
+"language" = "Idioma";
+"select_language" = "Seleccionar idioma";
+"notifications" = "Notificaciones";
+"theme" = "Tema";
+"units" = "Unidades";
+
+// MARK: - Health & Sync
+"health_fitness" = "Salud y fitness";
+"apple_health" = "Apple Health";
+"sync_nutrition_data" = "Sincronizar datos nutricionales con la app Salud";
+"data_sync" = "Datos y sincronización";
+"icloud_sync" = "Sincronización iCloud";
+"keep_data_synced" = "Mantener datos sincronizados entre dispositivos";
+
+// MARK: - App Information
+"app_information" = "Información de la app";
+"version" = "Versión";
+"build" = "Compilación";
+"support" = "Soporte";
+"privacy_policy" = "Política de privacidad";
+"terms_of_service" = "Términos de servicio";
+"contact_support" = "Contactar soporte";
+
+// MARK: - AI & Camera
+"ai_food_recognition" = "Reconocimiento de alimentos IA";
+"take_photo" = "Tomar foto";
+"analyze_food" = "Analizar alimento";
+"recognition_results" = "Resultados del reconocimiento";
+"confidence" = "Confianza";
+
+// MARK: - Errors & Validation
+"invalid_input" = "Entrada inválida";
+"required_field" = "Campo requerido";
+"network_error" = "Error de red";
+"sync_failed" = "Sincronización fallida";
+"camera_permission_denied" = "Permiso de cámara denegado";
+"health_permission_denied" = "Permiso de datos de salud denegado";

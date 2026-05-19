@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "*.h": "objective-c",
+        "*.mm": "objective-cpp",
+        "*.hpp": "cpp",
+        "*.cpp": "cpp"
+    },
+    "C_Cpp.files.exclude": {
+        "**/Bridge/*.h": true,
+        "**/Bridge/*.mm": true,
+        "**/*Bridge*.h": true,
+        "**/*Bridge*.mm": true,
+        "**/*-Bridging-Header.h": true
+    },
+    "C_Cpp.intelliSenseEngine": "default",
+    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.intelliSenseEngineFallback": "Disabled"
+}

@@ -1,0 +1,113 @@
+/* 
+  Localizable.strings (French)
+  FoodTrackerPro
+
+  Created by AI Assistant on 2025-07-28.
+*/
+
+// MARK: - App Navigation
+"tab.calendar" = "Calendrier";
+"tab.today" = "Aujourd'hui";
+"tab.analytics" = "Analyses";
+"tab.profile" = "Profil";
+"tab.body_tracking" = "Mesures Corporelles";
+
+// MARK: - Food Recognition
+"ai.recognizing" = "Reconnaissance d'aliments...";
+"ai.confidence" = "%d%% de confiance";
+"ai.select_food" = "Sélectionner";
+"ai.add_custom" = "Ajouter Personnalisé";
+"ai.camera_permission" = "L'accès à la caméra est requis pour reconnaître les aliments";
+"ai.take_photo" = "Prendre une Photo";
+"ai.choose_from_gallery" = "Choisir dans la Galerie";
+
+// MARK: - Body Measurements
+"body.shoulder_circumference" = "Tour d'Épaules";
+"body.neck_circumference" = "Tour de Cou";
+"body.chest_circumference" = "Tour de Poitrine";
+"body.arm_circumference" = "Tour de Bras";
+"body.thigh_circumference" = "Tour de Cuisse";
+"body.hip_circumference" = "Tour de Hanches";
+"body.calf_circumference" = "Tour de Mollet";
+"body.foot_size" = "Pointure";
+"body.weight" = "Poids";
+"body.height" = "Taille";
+
+// MARK: - Health & Nutrition
+"health.calories" = "Calories";
+"health.protein" = "Protéines";
+"health.fat" = "Lipides";
+"health.carbs" = "Glucides";
+"health.fiber" = "Fibres";
+"health.sugar" = "Sucre";
+"health.sodium" = "Sodium";
+"health.bmr" = "MB";
+"health.tdee" = "TDEE";
+"health.bmi" = "IMC";
+"health.body_fat" = "Graisse Corporelle";
+
+// MARK: - Profile Setup
+"profile.setup_title" = "Bienvenue dans FoodTrackerPro";
+"profile.setup_subtitle" = "Configurons votre profil pour un suivi nutritionnel personnalisé";
+"profile.name" = "Nom";
+"profile.age" = "Âge";
+"profile.gender" = "Genre";
+"profile.gender.male" = "Masculin";
+"profile.gender.female" = "Féminin";
+"profile.activity_level" = "Niveau d'Activité";
+"profile.activity.sedentary" = "Sédentaire";
+"profile.activity.light" = "Léger";
+"profile.activity.moderate" = "Modéré";
+"profile.activity.active" = "Actif";
+"profile.activity.very_active" = "Très Actif";
+
+// MARK: - Meals
+"meal.breakfast" = "Petit-déjeuner";
+"meal.lunch" = "Déjeuner";
+"meal.dinner" = "Dîner";
+"meal.snack" = "Collation";
+"meal.add_food" = "Ajouter un Aliment";
+"meal.total_calories" = "Calories Totales";
+
+// MARK: - Food Search
+"food.search_placeholder" = "Rechercher des aliments...";
+"food.recent_foods" = "Aliments Récents";
+"food.favorite_foods" = "Aliments Favoris";
+"food.search_results" = "Résultats de Recherche";
+"food.add_custom_food" = "Ajouter un Aliment Personnalisé";
+"food.serving_size" = "Taille de Portion";
+"food.per_100g" = "pour 100g";
+
+// MARK: - Actions
+"action.save" = "Enregistrer";
+"action.cancel" = "Annuler";
+"action.edit" = "Modifier";
+"action.delete" = "Supprimer";
+"action.add" = "Ajouter";
+"action.search" = "Rechercher";
+"action.continue" = "Continuer";
+"action.done" = "Terminé";
+"action.next" = "Suivant";
+"action.back" = "Retour";
+
+// MARK: - Analytics
+"analytics.weekly_overview" = "Aperçu Hebdomadaire";
+"analytics.calorie_balance" = "Balance Calorique";
+"analytics.macro_distribution" = "Distribution des Macros";
+"analytics.consumed" = "Consommé";
+"analytics.burned" = "Brûlé";
+"analytics.net_balance" = "Balance Nette";
+"analytics.surplus" = "Excédent";
+"analytics.deficit" = "Déficit";
+
+// MARK: - Settings
+"settings.language" = "Langue";
+"settings.notifications" = "Notifications";
+"settings.privacy" = "Confidentialité";
+"settings.about" = "À Propos";
+
+// MARK: - Errors
+"error.generic" = "Quelque chose s'est mal passé. Veuillez réessayer.";
+"error.network" = "Erreur de connexion réseau. Vérifiez votre connexion internet.";
+"error.camera_permission" = "L'autorisation de la caméra est requise pour photographier les aliments.";
+"error.health_permission" = "L'accès aux données de santé est requis pour un suivi précis des calories.";

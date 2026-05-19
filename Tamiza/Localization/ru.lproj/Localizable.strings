@@ -1,0 +1,110 @@
+/* 
+  Localizable.strings (Russian)
+  Tamiza
+  
+  Created by AI Assistant on 2025-07-28.
+*/
+
+// MARK: - General
+"app_name" = "Тамиза";
+"ok" = "ОК";
+"cancel" = "Отмена";
+"save" = "Сохранить";
+"delete" = "Удалить";
+"edit" = "Редактировать";
+"done" = "Готово";
+"loading" = "Загрузка...";
+"error" = "Ошибка";
+"success" = "Успешно";
+"retry" = "Повторить";
+"close" = "Закрыть";
+
+// MARK: - Navigation & Tabs
+"meals" = "Приёмы пищи";
+"analytics" = "Аналитика";
+"profile" = "Профиль";
+"settings" = "Настройки";
+
+// MARK: - Meals & Food
+"add_meal" = "Добавить приём пищи";
+"breakfast" = "Завтрак";
+"lunch" = "Обед";
+"dinner" = "Ужин";
+"snack" = "Перекус";
+"food_name" = "Название продукта";
+"quantity" = "Количество";
+"calories" = "Калории";
+"protein" = "Белки";
+"fat" = "Жиры";
+"carbohydrates" = "Углеводы";
+"fiber" = "Клетчатка";
+"sugar" = "Сахар";
+"sodium" = "Натрий";
+
+// MARK: - Units
+"grams" = "г";
+"kcal" = "ккал";
+"mg" = "мг";
+"serving" = "порция";
+"cup" = "стакан";
+"tablespoon" = "ст. ложка";
+"teaspoon" = "ч. ложка";
+
+// MARK: - Analytics
+"daily_summary" = "Дневная сводка";
+"weekly_trends" = "Недельные тенденции";
+"monthly_overview" = "Месячный обзор";
+"nutrition_breakdown" = "Разбивка питания";
+"calorie_intake" = "Потребление калорий";
+"macro_distribution" = "Распределение макронутриентов";
+"progress_tracking" = "Отслеживание прогресса";
+
+// MARK: - Goals & Settings
+"nutrition_goals" = "Цели питания";
+"daily_calories_goal" = "Дневная норма калорий";
+"protein_goal" = "Цель по белкам";
+"fat_goal" = "Цель по жирам";
+"carbs_goal" = "Цель по углеводам";
+"edit_goals" = "Редактировать цели";
+"daily_nutrition_goals" = "Дневные цели питания";
+"reset_to_defaults" = "Сбросить к значениям по умолчанию";
+
+// MARK: - Preferences
+"preferences" = "Предпочтения";
+"language" = "Язык";
+"select_language" = "Выбрать язык";
+"notifications" = "Уведомления";
+"theme" = "Тема";
+"units" = "Единицы измерения";
+
+// MARK: - Health & Sync
+"health_fitness" = "Здоровье и фитнес";
+"apple_health" = "Apple Health";
+"sync_nutrition_data" = "Синхронизация данных о питании с приложением Здоровье";
+"data_sync" = "Данные и синхронизация";
+"icloud_sync" = "Синхронизация iCloud";
+"keep_data_synced" = "Синхронизация данных между устройствами";
+
+// MARK: - App Information
+"app_information" = "Информация о приложении";
+"version" = "Версия";
+"build" = "Сборка";
+"support" = "Поддержка";
+"privacy_policy" = "Политика конфиденциальности";
+"terms_of_service" = "Условия использования";
+"contact_support" = "Связаться с поддержкой";
+
+// MARK: - AI & Camera
+"ai_food_recognition" = "ИИ распознавание продуктов";
+"take_photo" = "Сделать фото";
+"analyze_food" = "Анализировать продукт";
+"recognition_results" = "Результаты распознавания";
+"confidence" = "Уверенность";
+
+// MARK: - Errors & Validation
+"invalid_input" = "Неверный ввод";
+"required_field" = "Обязательное поле";
+"network_error" = "Ошибка сети";
+"sync_failed" = "Синхронизация не удалась";
+"camera_permission_denied" = "Доступ к камере запрещён";
+"health_permission_denied" = "Доступ к данным здоровья запрещён";
